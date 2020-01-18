@@ -14,8 +14,7 @@
 
 # IT Initiatives
 
-# Areas of Focus
- * Define Your Operating Model
+# Define Your Operating Model
       1. Considerations
       2. Standards
       3. Visions
