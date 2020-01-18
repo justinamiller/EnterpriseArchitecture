@@ -1,5 +1,6 @@
-# EnterpriseArchitecture
-EA as Strategy
+# Enterprise Architecture
+(Work in progress)
+
 
 # Four Stages of Architecture Maturity
   1. **Business Silios**: where companies look to maximize individual business unit needs or functional needs.
