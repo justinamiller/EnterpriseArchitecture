@@ -1,6 +1,6 @@
+ **_(Work in progress)_**
+ 
 # Enterprise Architecture
-## _(Work in progress)_
-
 
 # Four Stages of Architecture Maturity
   1. **Business Silios**: where companies look to maximize individual business unit needs or functional needs.
