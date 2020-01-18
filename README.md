@@ -1,5 +1,5 @@
 # Enterprise Architecture
-(Work in progress)
+## _(Work in progress)_
 
 
 # Four Stages of Architecture Maturity
