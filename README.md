@@ -1,5 +1,9 @@
  **_(Work in progress)_**
  
+ 
+ 
+ 
+
 # Enterprise Architecture
 
 # The Concept of Enterprise Architecture
@@ -21,3 +25,5 @@
       4. Landscapes
       5. Outlines
       6. Designs
+      
+# Architecture Debt
