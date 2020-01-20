@@ -25,12 +25,12 @@ A blueprint for the optimal and target-conformant placement of resources in the 
  5. Architectural
 
 # Types Of Enterprise Architecture Artifacts
-      1. Considerations
-      2. Standards
-      3. Visions
-      4. Landscapes
-      5. Outlines
-      6. Designs
+ 1. Considerations
+ 2. Standards
+ 3. Visions
+ 4. Landscapes
+ 5. Outlines
+ 6. Designs
       
 # Architecture Debt
 
