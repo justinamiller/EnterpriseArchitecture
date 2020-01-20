@@ -5,6 +5,7 @@
  
 
 # Enterprise Architecture
+A blueprint for the optimal and target-conformant placement of resources in the IT environment for the ultimate support of the business function.
 
 # The Concept of Enterprise Architecture
 
