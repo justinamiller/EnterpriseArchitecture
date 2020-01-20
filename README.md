@@ -17,9 +17,14 @@ A blueprint for the optimal and target-conformant placement of resources in the 
   3. **Optimized Core**: which provides companywide data & process standardization as appropriate for the operating model.
   4. **Business Modularity**: where companies manage and reuse loosely IT-enabled business process components to preserve global standards while enable local differences.
 
-# IT Initiatives
+# Types of IT Initiatives
+ 1. Fundamentals
+ 2. Stategic
+ 3. Local
+ 4. Urgent
+ 5. Architectural
 
-# Define Your Operating Model
+# Types Of Enterprise Architecture Artifacts
       1. Considerations
       2. Standards
       3. Visions
