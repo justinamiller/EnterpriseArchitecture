@@ -27,3 +27,6 @@
       6. Designs
       
 # Architecture Debt
+
+# Architecture Roadmap
+Is a lists of individual work packages that will realize the Target Architecture and lays them out on a timeline to show progression from the Baseline Architecture to the Target Architecture. The Architecture Roadmap highlights individual work packages' business value at each stage. Transition Architectures necessary to effectively realize the Target Architecture are identified as intermediate steps.
