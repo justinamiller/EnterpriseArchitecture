@@ -7,6 +7,14 @@
 # Enterprise Architecture
 A blueprint for the optimal and target-conformant placement of resources in the IT environment for the ultimate support of the business function.
 
+ * Affects all development of the company.
+ * Works with high-level abstractions of the created systems.
+ * Provides technical communications throughout the company.
+ * Does not interact with the code.
+ * Focuses on the business component.
+ * Has a broad technological horizon.
+ * Owns several domains.
+
 # The Concept of Enterprise Architecture
 
 # The Role of Enterprise Architecture Practice
