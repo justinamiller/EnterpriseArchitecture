@@ -28,6 +28,7 @@ Enterprise Architect has a number of powerful features that will assist the arch
 Enterprise Architect can be used to define and manage strategic level architectures and can also help to ensure tactical and solution architectures are aligned to support the strategic direction. 
 
 This diagram shows the way architecture at different levels can be visualized.
+![Architect levels](./src/EA_Architecture_Levels.jpeg)
 
 
 
