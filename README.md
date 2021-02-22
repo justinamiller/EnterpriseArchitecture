@@ -37,11 +37,17 @@ This diagram shows the way architecture at different levels can be visualized.
   4. **Business Modularity**: where companies manage and reuse loosely IT-enabled business process components to preserve global standards while enable local differences.
 
 # Types of IT Initiatives
- 1. Fundamentals
- 2. Stategic
- 3. Local
- 4. Urgent
- 5. Architectural
+## Fundamentals
+## Stategic
+### Strategic Planning 
+Strategic planning process alone neither delivers any IT solutions nor even describes what exactly needs to be delivered, but only provides high-level rules and directions for IT reflected in Considerations and Visions agreed by both business and IT.
+### Initiative Delivery
+Is the next downstream process which turns the abstract plans into tangible IT solutions implemented in an optimal manner. It closes the gap between Strategic planning and the actual practical implementation of working IT solutions.
+
+
+ ## Local
+ ## Urgent
+ ## Architectural
 
 # Types Of Enterprise Architecture Artifacts
  1. Considerations
