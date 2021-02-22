@@ -44,6 +44,10 @@ Strategic planning process alone neither delivers any IT solutions nor even desc
 ### Initiative Delivery
 Is the next downstream process which turns the abstract plans into tangible IT solutions implemented in an optimal manner. It closes the gap between Strategic planning and the actual practical implementation of working IT solutions.
 
+### The Process View in Practice
+![EA process view](./src/eaprocessview.PNG)
+This figure suggests, an EA practive cannot be viewed as a single step-by-step process, where architects creates numerious EA artifacts to describe all the layers of architecture from busienss to infrastructure, but rather as a complex set of diverse and interacting processes happening simultaneously organizational levels.
+
 
  ## Local
  ## Urgent
