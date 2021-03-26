@@ -12,6 +12,16 @@ A blueprint for the optimal and target-conformant placement of resources in the 
  * Has a broad technological horizon.
  * Owns several domains.
 
+# Reverse Engineering the Organization
+|   | Cost Center | Asset | Partner | Enabler | 
+| --- | --- |--- |--- |--- |
+| Focus on  | Cost | Return in Investment | Business Value | Speed & Innovation | 
+| Typical CIO Reporting line  | CFO | COO | CDO | CEO |
+| Common Strategy  | Outsouce IT | Harmonize/Rationalize | Insource IT | IT=business | 
+| Levers | Cost Cutting | Ecconomies of Scale | Agility | Economies of Speed |
+
+
+
 # The Concept of Enterprise Architecture
 
 # Levels of Enterprise Architecture.
@@ -25,7 +35,6 @@ Enterprise Architect can be used to define and manage strategic level architectu
 
 This diagram shows the way architecture at different levels can be visualized.
 ![Architect levels](./src/EA_Architecture_Levels.jpeg)
-
 
 
 # The Role of Enterprise Architecture Practice
