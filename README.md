@@ -5,6 +5,9 @@
 A blueprint for the optimal and target-conformant placement of resources in the IT environment for the ultimate support of the business function.
 
  * Connects the business & IT strategy
+   * Look at oranization & technology
+   * Shares the same story, but in different way
+   * Understands each area objectives and constraints
  * Drives change
  * Affects all development of the company
  * Works with high-level abstractions of the created systems
