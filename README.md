@@ -4,13 +4,19 @@
 # Enterprise Architecture
 A blueprint for the optimal and target-conformant placement of resources in the IT environment for the ultimate support of the business function.
 
- * Affects all development of the company.
- * Works with high-level abstractions of the created systems.
- * Provides technical communications throughout the company.
- * Does not interact with the code.
- * Focuses on the business component.
- * Has a broad technological horizon.
- * Owns several domains.
+ * Connects the business & IT strategy
+ * Drives change
+ * Affects all development of the company
+ * Works with high-level abstractions of the created systems
+ * Provides technical communications throughout the company
+ * Design internet scale systems
+ * Focuses on the business component
+ * Conquer complexity
+ * Has a broad technological horizon
+ * Owns several domains
+ * Explains and demystify
+ * Remove Friction
+ 
 
 # Reverse Engineering the Organization
 |   | Cost Center | Asset | Partner | Enabler | 
