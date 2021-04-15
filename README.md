@@ -62,6 +62,66 @@ This diagram shows the way architecture at different levels can be visualized.
   3. **Optimized Core**: which provides companywide data & process standardization as appropriate for the operating model.
   4. **Business Modularity**: where companies manage and reuse loosely IT-enabled business process components to preserve global standards while enable local differences.
 
+# Strategic Alignment
+This model intends to explain how strategic alignment can be achieved using Enterprise Systems (as a dominant form of IT) through the lens of an Enterprise Architecture.
+![EA process view](./src/alignmentmodel.JPG)
+This model does not intend to depict the entire Enterprise Architecture of all, or even any single organization(s). Instead, it attempts to depict a visual and high level model explaining alignment between business strategy and IT (and specifically Enterprise Systems) through the lens of an Enterprise Architecture. So, while there could be different types and components of IT in an organization, this model only depicts the kind of IT for demonstrating strategic alignment of business and it can be achieved by traversing through these different layers.
+
+The model is explained by breaking it down into its constituent layers namely technology layer, applications layer,
+business layer and motivation layer. 
+
+## The Technology Layer 
+The technology layer, shown as a single level layer (TL1) shows the deployment of technology (specifically IT) that an organization has in place as a part of their IT platform. However, we limit our interest to the one node i.e. Enterprise System Platform. Enterprise Systems are used as the chosen type of IT.
+Enterprise Systems (ES) can be defined as large-scale, packaged, application software systems. These systems come in different forms, but the most dominant forms are the Enterprise Resource Planning (ERP), Customer Relationship Management (CRM). As shown in the technology layer, Enterprise Systems are usually deployed with an application server that manages the software and an independent database server. This form of technological deployment of Enterprise Systems is widely witnessed irrespective of the vendor and the system.
+
+## The Applications Layer
+The applications layer shows the IT applications that an organization has in place as a part of their IT portfolio and the services that it provides to them. The application layer is shown to consist of two levels: the application systems level (AL1) and the application services level (AL2). Irrespective of the vendor and the system, most Enterprise
+Systems are composed of in-built functional units called ‘modules’ that interact with each other to provide all the functionality. As shown in the applications layer, Such modules include Financials, Human Resources, Sales and Distribution, Materials Management, Production Planning and many others. Additional modules are available for specific industries like banking, Retail, Education, Mining and many others.
+The top part of the applications layer shows the different application services that are offered by the application(s) – in this case the Enterprise System. These application services offered are the provisions or capabilities that are realized by implementing and using Enterprise systems. It may be noted here that these application services will be
+realized upon (a) successful implementation (via one or more projects) and (b) effective use of the Enterprise System. 
+* Integration Data and Systems: Enterprise Systems provides the capability to unify and harmonize data and systems with an organization’s unique environment, and use the systems to better connect organizational units and processes, as well as customers and suppliers.
+* Optimised and Standardized Processes: Enterprise Systems provides the standardization of processes using best practices embodied in the software, and shape processes to fit the unique or strategic needs of the business.
+* Information and Analytics: Enterprise Systems also provides information in real-time and transforms data into context-rich knowledge that supports the unique business analysis and decision-making needs of multiple work forces.
+* Multi-Country Support: Enterprise systems have built-in support for multiple currencies, multiple languages, and multiple global locations of business.
+* Organizational Structures: Enterprise Systems support the setting up of organizational hierarchies and structures in a uniform and standardized way across the entire organization. This ranges from the corporate level (headquarters and branches) to business unit levels, and also include multi- entity organizations (holding and subsidiaries). 
+
+## The Business Layer
+This layer, in a single level (BL1), shows the capabilities that the technology layers helps to build in the organization, that may contribute towards meeting its objectives, goals and mission. These capabilities include (but not limited to):
+* Better Fulfilment of Orders/Requests: Timely and accurate fulfilment of orders and service requests through faster, accurate and integrated transaction processing enabled by Enterprise Systems
+* Lean Production: Reduction in inventory carried due to better production planning enabled by the optimized processes in the Enterprise System
+* Automation of Supply Chain: Linking supply chain partners like suppliers, wholesalers, retailers etc. using the Enterprise System’s integration tools
+* Organizational Communication: Co-ordination between business units through standardized processes and user interfaces of the Enterprise System 
+* Consolidated IT Infrastructure: Common infrastructure through integration and standardization of IT components in the form of the Enterprise System
+* Business Analytics: Analysis of the organization’s operations finances, customers, suppliers and other stakeholders enabled by the real-time information and analytical tools provided by Enterprise Systems
+* Integration of External Systems: integrating other systems quickly and easily into the already integrated Enterprise System 
+* Compliance: Adherence with legislations, like the Sarbanes-Oxley Act with the built-in support for such laws in Enterprise Systems.
+
+## The Motivation Layer
+This layer presents the topmost layer of the organization: the ‘ends’ that organizations wish to achieve and the ‘means’ through which they can achieve those ‘ends’. In other words, the ‘motivations’ for the organizations to exist.
+At the top of the hierarchy is the mission of business organizations: maximizing the benefits/returns of the owners/shareholders of the business. A key measure for this is the Return on Equity (RoE), also called Return on Net Worth (RoNW) and has been widely used as the ‘end’ for any business organization. Return on Equity is the amount of net income returned as a percentage of shareholders’ equity. It measures a corporation's profitability by revealing how much profit a company generates with the money shareholders have invested. This measure which is calculated as pre-tax income divided by equity. Thus ‘Maximising Return on Net Worth’ is shown at the topmost level (ML0) of the motivation layer in the model; this can be taken to be the ultimate ‘end’ for any business organization.
+
+The next level (ML1) shows that to achieve this ultimate ‘end’, different organizations employ different ‘means’. These different means can be well and comprehensively depicted by a widely cited framework called the Strategic Orientation of Business Enterprises (STROBE). This framework suggests that business organizations choose one or more of the six ‘strategic orientations’ to achieve their end goal. These six strategic orientations are: Aggressiveness, Proactiveness, Defensiveness, Analysis, Futurity and Riskiness. 
+* Aggressiveness: It is the strategic orientation in which the organization aims to improve its existing market share and outperform competitors.
+* Proactiveness: It is the strategic orientation in which organization searches for new market opportunities and business ventures as well as new products and services that can be offered.
+* Defensiveness: It is the strategic orientation in which an organization engages in activities to improve its efficiency and reducing the costs of business operations in an effort to preserve its prospective domain.
+* Futurity/Riskiness: It is the strategic orientation in which an organization’s decisions or activities reflect long-term considerations. These often tend to be venturing into new high risk areas based on future predictions.
+* Analysis: It is the strategic orientation in which an organization takes actions based on factual, comprehensive information for decision-making through detailed root-cause analyses and potential solutions.
+
+The next level (ML2) shows how the different strategic orientations mentioned in the above level can be translated in the form of different high level ‘goals’.
+* In Agressiveness, the main goal is to achieve Market Penetration.
+   *  Market Penetration: this means that the organization aims to increase its revenue using its existing offerings (products and services) in existing markets.
+* In Proactiveness, the main goals are to achieve Product Development, Market Development and Inorganic Growth.
+   * Product Development: this means that an organization aims to increase its revenue by creating new products and services targeted at its existing markets.
+   * Market Development: this means that an organization aims to increase its revenue by expanding into new markets (customer segments, geographies, countries etc.) using its existing offerings.
+   * Inorganic Growth: this means that an organization aims to increase its revenue by acquiring or merging with other organizations.
+* In Defensiveness, the main goal is to achieve Operational Efficiency
+   * Operational Efficiency: this means that an organization aims to reduce costs by improving productivity and efficiency of its operational and administrational activities
+* In Futurity, the main goal is to achieve Diversification
+   * Diversification: this means that an organization aims to increase revenue by introducing new offerings in new markets. It is the riskiest strategy because both product and market development is required.
+* In Analysis, the main goal is to make Astute Strategic Decisions
+   * Astute Strategic Decisions: this means that an organization aims to make ‘intentional choices or programmed responses about issues that materially affect the survival prospects, well-being and nature of the organization
+
+
 # Types of IT Initiatives
 ## Fundamentals
 ## Stategic
