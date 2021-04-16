@@ -352,7 +352,31 @@ be carried out in parallel without any particular predefined order. Therefore, t
 ![Processes](./src/ea_processes.JPG)
 
 ## Project-Level Architecture Processes
+Project-level architecture processes are wellstructured and largely revolve around two distinct governance bodies: the Innovation Forum and the Architecture Review Forum (ARF). 
+
+The Innovation Forum is a governance body for testing and approving ideas for projects. It meets every two weeks and engages senior business and IT leaders, including finance officers responsible for the budgeting process. All IT projects are presented at the Innovation Forum where business and IT leaders evaluate the viability of each project from the business perspective based on its estimated cost, value, benefits, maintainability, risk, and other factors. Only worthwhile projects are given approval and necessary funding. However, the most significant projects requiring substantial resources need additional approvals directly from the executive committee.
+
+The Architecture Review Forum is an IT-focused governance body engaging senior IT managers, enterprise, and solution architects. Participants of the ARF scrutinize the architectures of all proposed IT projects and assess their viability from the technology perspective. For instance, they review the main technical decisions taken by projects, validate them against the established standards and ideal future states described in technical reference architectures (when they exist), discuss potential deviations, and ensure that their architectures are as strategic as possible. Additionally, the Community Architecture Forum presents an opportunity for information sharing, idea dissemination, and communication to all architects. It has optional attendance and no formal governance authority.
+
+Each project starts its life as an idea proposed by business stakeholders. These ideas can be either spontaneous or derived from the broader strategic direction defined by executives. After an initial informal discussion and approval of the “seed” funding this idea is elaborated into a solution overview of the potential future IT project by an assigned solution architect. The solution architect engages relevant domain and subject matter experts and develops the solution overview based on the established standards and principles. Inventories providing the descriptions of currently available entities help solution architects reuse and leverage existing IT assets. For most areastechnical reference architectures provide high-level descriptions of the current IT landscapes in these areas to facilitate the solution planning. Additionally, if the relevant technical reference architecture provides a description of the desired future state for the business capability that the project aims to enhance, then the solution architect aligns the solution overview to this ideal target state.
+
+When the solution overview is ready, the solution architect prepares Key Design Decisions (KDDs) for the project and presents the solution overview together with
+its KDDs at the Architecture Review Forum (ARF) for discussion and consideration. he ARF reviews the solution overview and KDDs to ensure that the project is
+aligned to established principles, standards, and the target state defined in the technical reference architecture (if it is defined for the corresponding business capability), as well as to ensure that all potential deviations are justified. As a result of this review, the ARF concludes whether the project is desirable or feasible from the technical perspective.
+
+After the solution overview is reviewed by the ARF, the business case for the project is prepared. A high-level description of the project provided by the solution overview is used as a basis for estimating its value, benefits, time, cost, and ROI that shape the business case. Then the business case, KDDs, and other documentation for the project are presented at the Innovation Forum where senior business and IT leaders make the ultimate investment decision on the project. Participants of the innovation forum consider three main factors when approving projects:
+ 1. Financial considerations described in the business case
+ 2. Alignment to the agreed IT investment roadmaps
+ 3. Conclusions of the ARF on the technical desirability of the project
+
+In certain cases the Innovation Forum can approve a project even if it deviates from the roadmaps or if it is not endorsed by the ARF; for example, when the project has compelling financial benefits, strict time limitations, or satisfies urgent legislative requirements. If the project is approved, then the business sponsor who initiated the
+project takes accountability for the benefits and outcomes estimated in the business case.
+
+When the project is approved and funded, the solution architect with relevant domain and subject matter experts, develops a more detailed Solution Architecture Document (SAD) for the project and refines its KDDs. The SAD and KDDs are again reviewed by the ARF and then the SAD is passed either to an internal project implementation team or to a vendor in order to actually deliver the project. After the project is implemented, the solution architect conducts a post-implementation review in order to validate the delivery and verify the compliance to the KDDs and SAD.
+
 ![ProjectProcesses](./src/ea_projectprocesses.JPG)
+
+
 
 # Architecture Debt
 
