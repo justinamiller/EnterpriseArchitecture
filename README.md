@@ -131,9 +131,12 @@ The next level (ML2) shows how the different strategic orientations mentioned in
 ## Stategic
 
 ## The Process View in Practice
-![EA process view](./src/eaprocessview.PNG)
+This figure provides an aggregated view of the core processes constituting an EA practice with their interrelationships and most essential properties, including their main goals and motives, necessary participants, underlying EA artifacts and documents, key activities and associated techniques, temporal nature and general meaning
 
 This figure suggests, an EA practive cannot be viewed as a single step-by-step process, where architects creates numerious EA artifacts to describe all the layers of architecture from busienss to infrastructure, but rather as a complex set of diverse and interacting processes happening simultaneously organizational levels.
+
+![EA process view](./src/eaprocessview.PNG)
+
 
 ### Strategic Planning 
 Strategic planning process alone neither delivers any IT solutions nor even describes what exactly needs to be delivered, but only provides high-level rules and directions for IT reflected in Considerations and Visions agreed by both business and IT.
