@@ -41,6 +41,7 @@ One of the most important things we can do to achieve optimal IT and business al
 
 This model intends to explain how strategic alignment can be achieved using Enterprise Systems (as a dominant form of IT) through the lens of an Enterprise Architecture.
 ![EA process view](./src/alignmentmodel.JPG)
+
 This model does not intend to depict the entire Enterprise Architecture of all, or even any single organization(s). Instead, it attempts to depict a visual and high level model explaining alignment between business strategy and IT (and specifically Enterprise Systems) through the lens of an Enterprise Architecture. So, while there could be different types and components of IT in an organization, this model only depicts the kind of IT for demonstrating strategic alignment of business and it can be achieved by traversing through these different layers.
 
 The model is explained by breaking it down into its constituent layers namely technology layer, applications layer,
