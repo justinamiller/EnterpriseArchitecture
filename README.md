@@ -19,6 +19,9 @@ A blueprint for the optimal and target-conformant placement of resources in the 
  * Owns several domains
  * Explains and demystify
  * Remove Friction
+
+Or in other words, a collection of special documents (artifacts) describing various aspects of an organization from an integrated business and IT perspective intended to bridge the communication gap between business and IT stakeholders, facilitate information systems planning and thereby improve business and IT alignment.
+
  
  # Why invest in Enterprise Architecture?
 
