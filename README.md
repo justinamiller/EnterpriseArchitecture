@@ -349,6 +349,10 @@ be carried out in parallel without any particular predefined order. Therefore, t
 7. Enterprise architects maintain the technical inventories to adequately reflect the currently available IT assets.
 8. Enterprise architects together with solution architects maintain and update enterprise-wide technical standards for IT project implementation.
 
+![Processes](./src/ea_processes.JPG)
+
+## Project-Level Architecture Processes
+![ProjectProcesses](./src/ea_projectprocesses.JPG)
 
 # Architecture Debt
 
