@@ -233,14 +233,6 @@ _Outputs_: New working IT solutions
 _Meaning_: Need-to-solution, i.e. convert a specific need into a concrete IT solution addressing this need in the most optimal manner
 
 
-# Reverse Engineering the Organization
-|   | Cost Center | Asset | Partner | Enabler | 
-| --- | --- |--- |--- |--- |
-| Focus on  | Cost | Return in Investment | Business Value | Speed & Innovation | 
-| Typical CIO Reporting line  | CFO | COO | CDO | CEO |
-| Common Strategy  | Outsouce IT | Harmonize/Rationalize | Insource IT | IT=business | 
-| Levers | Cost Cutting | Ecconomies of Scale | Agility | Economies of Speed |
-
 # The Concept of Enterprise Architecture
 
 # Domains of Enterprise Architecture
@@ -353,3 +345,11 @@ A few lessons learnt while rolling out the process:
  2. **Plan for a continuum of reviews**: Business domains evolve, strategies get updated, and new capabilities are periodically introduced in organizations. Therefore, the roadmaps will periodically become obsolete, and must be updated and reconciled.
  3. **Stakeholder engagement**: Reconciling roadmaps at a large organization does not happen in isolation. One must engage Architects and stakeholders from across functional and business boundaries which may present logistical challenges. Engaging teams that are geographically dispersed will require consulting and change management skills.  
  4. **Consultative more than directive**: A roadmap review should take into account organizational (human) dynamics and organizational constraints. The reviews and reconciliation should be consultative, although some aspects - like external vendor inputs or Technology Debt - may have to be directive.
+
+# Reverse Engineering the Organization
+|   | Cost Center | Asset | Partner | Enabler | 
+| --- | --- |--- |--- |--- |
+| Focus on  | Cost | Return in Investment | Business Value | Speed & Innovation | 
+| Typical CIO Reporting line  | CFO | COO | CDO | CEO |
+| Common Strategy  | Outsouce IT | Harmonize/Rationalize | Insource IT | IT=business | 
+| Levers | Cost Cutting | Ecconomies of Scale | Agility | Economies of Speed |
