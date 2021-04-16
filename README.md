@@ -173,6 +173,10 @@ This figure suggests, an EA practive cannot be viewed as a single step-by-step p
 
 ![EA process view](./src/eaprocessview.PNG)
 
+As a mediator between strategic management and projects management, an EA practice enables effective coordination of plans and activities between all relevant actors involved in strategic decision-making and implementation of IT systems resulting in improved business and IT alignment
+
+![EA Position](./src/ea_position.JPG)
+
 
 ### Strategic Planning 
 Strategic planning process alone neither delivers any IT solutions nor even describes what exactly needs to be delivered, but only provides high-level rules and directions for IT reflected in Considerations and Visions agreed by both business and IT.
