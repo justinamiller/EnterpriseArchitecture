@@ -141,23 +141,67 @@ This figure suggests, an EA practive cannot be viewed as a single step-by-step p
 
 #### Strategic Planning
 _Goal_: Articulate the desired future course of action for business & IT
+
 _Question_: How is the business enviorment changing & what should we do to react to these changes?
+
 _Focus_: Long-term & mid-term future
+
 _Instance_: Single, or several in high decentralized organizations, e.g. one instance for each line of business
+
 _Nature_: Continuous & loargely unstructured
-_Integration_: Integrated with regular strategic management activities, e.g. environmental analysis, identification of competitive advantages and goals formulation.
-_Timing_: Aliged to the annual business planning cycle, important business dates, periods & events, e.g. fiscal years, budgeting cycle, board meeetings or updates of a business strategy.
+
+_Integration_: Integrated with regular strategic management activities, e.g. environmental analysis, identification of competitive advantages and goals formulation
+
+_Timing_: Aliged to the annual business planning cycle, important business dates, periods & events, e.g. fiscal years, budgeting cycle, board meeetings or updates of a business strategy
+
 _Actors_: Business Leaders & Architects
+
 _EA Artifacts_: Considerations & Visions, e.g. principles, policies, business capability models, & roadmaps
-_Other Documents_: Organizational mission & values, strategic goals, objectives, & KPIs, balanced scorecards and strategy maps, buiness motivation models, high-level strategic business plans and more detailed programs of work.
-_Content_: Development of rules and directions for business and IT and their explicit documentation in Considerations and Visions.
-_Activities_: Informal discussions, meetings, presentations, and workshops, as well as periodical formal approvals and sign-off.
+
+_Other Documents_: Organizational mission & values, strategic goals, objectives, & KPIs, balanced scorecards and strategy maps, buiness motivation models, high-level strategic business plans and more detailed programs of work
+
+_Content_: Development of rules and directions for business and IT and their explicit documentation in Considerations and Visions
+
+_Activities_: Informal discussions, meetings, presentations, and workshops, as well as periodical formal approvals and sign-off
+
 _Techniques_: SWOT & PEST analyses, Five Forces and other strategy frameworks
+
 _Inputs_: Fundamental factors of the external business environment
+
 _Output_: High-level strategic plans for business & IT reflected in Considerations and Visions
+
 _Meaning_: Strategy-to-portfolio, i.e. convert an abstract business strategy into more specific suggestions regarding the desired portfolio of IT inventments
 
 #### Technology Optimization
+_Goal_: Improve the overall quality of the corporate IT landscape
+
+_Question_: What is wrong with the current IT landscape and what should we do to improve it?
+
+_Focus_: Current situation with some future outlook
+
+_Instances_: Single, or several in highly decentralized organizations, e.g. one instance for each busines division
+
+_Nature_: Continous and largely unstructured
+
+_Timing_: May be carried out indepedently without any systematic schedule, often on an as-necessary basis or event opportunisically, e.g. in the absence of other higher-priority activities
+
+_Actors_: Architects alone
+
+_EA Artifacts_: Standards & Landscapes, e.g. Technology Reference Models, Guildlines, Landscape Diagrams, and Inventories
+
+_Other Documents_: None
+
+_Content_: Analysis of the existing IT landscape, update of Standards, maintenance of Landscape and formulation of rationalization proposals
+
+_Activities_: Numerous informal discussions and periodical formal approvals
+
+_Techniques_: Total cost of ownership (TCO) and architecture debt management
+
+_Inputs_: Current struture of the organizational IT landscape
+
+_Outputs_: Technical reationalization suggestions reflected in Standards and Landscapes
+
+_Meaning_: Structure-to-rationalization, i.e. understand the current structure of the IT landscape and formulate the rationalization strategy its future evolution
 
 #### Initative Delivery
 
