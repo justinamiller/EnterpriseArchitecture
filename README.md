@@ -241,7 +241,7 @@ _EA Artifacts_: Designs, e.g. Solution Designs and Preliminary Solution Design
 _Other Documents_: Business requirements and project management plans
 _Content_: Development of designs based on Outlines and then their actual technical implementation
 _Activities_: Daily collaborative work
-_Techniques_: User stories, requirements traceability matrices and (MoSCoW prioritization)[https://www.productplan.com/glossary/moscow-prioritization/] framework
+_Techniques_: User stories, requirements traceability matrices and [MoSCoW prioritization](https://www.productplan.com/glossary/moscow-prioritization/) framework
 ------END of Step 2
 
 _Inputs_: Specific business, and sometimes technical, needs
