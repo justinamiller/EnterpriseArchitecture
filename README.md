@@ -113,6 +113,11 @@ As a mediator between strategic management and projects management, an EA practi
 
 ![EA Position](./src/ea_position.JPG)
 
+### External Businesss Enviroment
+Economy, technology, society, demography, legislation, regulation, competitors, partners, suppliers, customers, etc.
+
+### Organizational IT Landscape
+Existing applications, information systems, databases, integration platforms, network and server infrastructure, etc.
 
 ### Strategic Planning 
 Strategic planning process alone neither delivers any IT solutions nor even describes what exactly needs to be delivered, but only provides high-level rules and directions for IT reflected in Considerations and Visions agreed by both business and IT.
