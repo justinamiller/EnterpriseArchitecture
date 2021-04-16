@@ -299,6 +299,11 @@ _Meaning_: Need-to-solution, i.e. convert a specific need into a concrete IT sol
 # Types Of Enterprise Architecture Artifacts
 ![Artifacts](./src/typesofartificats.JPG)
 
+## Example of a Duel EA Artifact
+![DuelArtifacts](./src/ea_duel_artificat.JPG)
+This solution overview helps business and IT stakeholders make optimal collective planning decisions regarding the launch of a new IT initiative
+
+
 ## Considerations 
 are Business-Focused Rules. EA artifacts related to this general type identified in organizations include principles, policies, maxims, core drivers, architecture strategies, conceptual data models, governance papers, position papers, strategy papers and whitepapers. All these EA artifacts describe global conceptual rules and considerations important for business and relevant for IT. Considerations are developed collaboratively by senior business leaders and architects and then used to influence all architectural decisions. Their purpose is to help achieve the agreement on basic principles, values, directions and aims. The proper use of Considerations leads to improved overall conceptual consistency.
 ## Standards
