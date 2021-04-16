@@ -34,70 +34,6 @@ For many companies, the Enterprise Architecture is an afterthought, something on
 # EA as an Instrument for Communication
 ![Communication](./src/ea_communication.JPG)
 
-# Reverse Engineering the Organization
-|   | Cost Center | Asset | Partner | Enabler | 
-| --- | --- |--- |--- |--- |
-| Focus on  | Cost | Return in Investment | Business Value | Speed & Innovation | 
-| Typical CIO Reporting line  | CFO | COO | CDO | CEO |
-| Common Strategy  | Outsouce IT | Harmonize/Rationalize | Insource IT | IT=business | 
-| Levers | Cost Cutting | Ecconomies of Scale | Agility | Economies of Speed |
-
-
-
-# The Concept of Enterprise Architecture
-
-# Domains of Enterprise Architecture
-The informational contents of enterprise architecture typically encompass the following common EA domains:
-* Business domain – covers customers, capabilities, processes, roles, etc.
-* Applications domain – covers programs, systems, custom software, vendor products, etc.
-* Data domain – covers data entities, structures, sources, etc.
-* Integration domain – covers interfaces, connections, interaction protocols, integration platforms, etc.
-* Infrastructure domain – covers hardware, servers, operating systems, networks, etc.
-* Security domain – covers firewalls, authentication mechanisms, identity and access management systems, encryption, etc.
-
-![Domains](./src/ea_domains.JPG)
-
-Generally, enterprise architecture can describe any domains considered as important from the perspective of the relationship between business and IT
-
-
-# EA Domains as a Stack
-The set of common EA domains can be represented as a multilayered stack of domains, where lower layers underpin higher layers:
-* Applications automate business processes
-* Data is used by applications
-* Integration mechanisms link all applications and data together
-* Infrastructure hosts all applications, databases and integration platforms
-* Security mechanisms permeate all other EA domains
-
-The business domain is non-technical in nature, while all other EA domains are technical domains directly related to respective technologies
-
-# Enabling and Supporting EA Domains
-All EA domains can be also separated into business enabling domains and business-supporting domains
-* Business-enabling EA domains occupy the top layers of the stack and represent functional domains
-* These domains are relevant to business stakeholders and define the core business functionality of IT systems
-* Business-supporting EA domains occupy the bottom layers of the stack and represent non-functional domains
-* These domains are irrelevant to business stakeholders and unrelated to business functionality of IT systems
-
-# Levels of Enterprise Architecture.
-Enterprise Architect has a number of powerful features that will assist the architecture program to partition and maintain these levels of the architecture and their inter-relationships.
-
- * **Strategic Architectures**: Provides a high level and often long term view of the enterprise and are used by senior business and technical stackholders to get a single view of the architecture to assist with strategic planning.
- * **Tactical Architectures**: Provide a mid-range view of the enterprise often focused on a particular area or division and provides the context for operational changes and equates to the portfolio or program level organization of projects and initiatives.
- * **Solution Architectures**: Provide a detailed view of how an enterprise can support a capability and how the parts of the architecture can be used to describe baseline and target capabilites and capability increments. These architectures will typically guilde projects that are grouped within a portfolio.
-
-Enterprise Architect can be used to define and manage strategic level architectures and can also help to ensure tactical and solution architectures are aligned to support the strategic direction. 
-
-This diagram shows the way architecture at different levels can be visualized.
-![Architect levels](./src/EA_Architecture_Levels.jpeg)
-
-
-# The Role of Enterprise Architecture Practice
-
-# Four Stages of Architecture Maturity
-  1. **Business Silios**: where companies look to maximize individual business unit needs or functional needs.
-  2. **Standardized Technology**: providing IT efficientcies through technology standardization and, in most cases, increased centralization of technology management.
-  3. **Optimized Core**: which provides companywide data & process standardization as appropriate for the operating model.
-  4. **Business Modularity**: where companies manage and reuse loosely IT-enabled business process components to preserve global standards while enable local differences.
-
 # Strategic Alignment
 If there's one constant in a fast-changing business environment it's that we need to stay innovative and nimble. If we want to achieve the best business outcomes the way to do this is to make sure everyone involved is working towards a common goal. This is especially true when it comes to alignment between IT and the business. What I mean by this is that, the IT person understands enough about the business goal and the business person understands enough about the technology to have a meaningful discussion about how they jointly achieve the desired business outcomes. If we focus on this type of collaboration we will find ourselves working smarter not harder.
 
@@ -291,6 +227,68 @@ _Outputs_: New working IT solutions
 
 _Meaning_: Need-to-solution, i.e. convert a specific need into a concrete IT solution addressing this need in the most optimal manner
 
+
+# Reverse Engineering the Organization
+|   | Cost Center | Asset | Partner | Enabler | 
+| --- | --- |--- |--- |--- |
+| Focus on  | Cost | Return in Investment | Business Value | Speed & Innovation | 
+| Typical CIO Reporting line  | CFO | COO | CDO | CEO |
+| Common Strategy  | Outsouce IT | Harmonize/Rationalize | Insource IT | IT=business | 
+| Levers | Cost Cutting | Ecconomies of Scale | Agility | Economies of Speed |
+
+# The Concept of Enterprise Architecture
+
+# Domains of Enterprise Architecture
+The informational contents of enterprise architecture typically encompass the following common EA domains:
+* Business domain – covers customers, capabilities, processes, roles, etc.
+* Applications domain – covers programs, systems, custom software, vendor products, etc.
+* Data domain – covers data entities, structures, sources, etc.
+* Integration domain – covers interfaces, connections, interaction protocols, integration platforms, etc.
+* Infrastructure domain – covers hardware, servers, operating systems, networks, etc.
+* Security domain – covers firewalls, authentication mechanisms, identity and access management systems, encryption, etc.
+
+![Domains](./src/ea_domains.JPG)
+
+Generally, enterprise architecture can describe any domains considered as important from the perspective of the relationship between business and IT
+
+
+# EA Domains as a Stack
+The set of common EA domains can be represented as a multilayered stack of domains, where lower layers underpin higher layers:
+* Applications automate business processes
+* Data is used by applications
+* Integration mechanisms link all applications and data together
+* Infrastructure hosts all applications, databases and integration platforms
+* Security mechanisms permeate all other EA domains
+
+The business domain is non-technical in nature, while all other EA domains are technical domains directly related to respective technologies
+
+# Enabling and Supporting EA Domains
+All EA domains can be also separated into business enabling domains and business-supporting domains
+* Business-enabling EA domains occupy the top layers of the stack and represent functional domains
+* These domains are relevant to business stakeholders and define the core business functionality of IT systems
+* Business-supporting EA domains occupy the bottom layers of the stack and represent non-functional domains
+* These domains are irrelevant to business stakeholders and unrelated to business functionality of IT systems
+
+# Levels of Enterprise Architecture.
+Enterprise Architect has a number of powerful features that will assist the architecture program to partition and maintain these levels of the architecture and their inter-relationships.
+
+ * **Strategic Architectures**: Provides a high level and often long term view of the enterprise and are used by senior business and technical stackholders to get a single view of the architecture to assist with strategic planning.
+ * **Tactical Architectures**: Provide a mid-range view of the enterprise often focused on a particular area or division and provides the context for operational changes and equates to the portfolio or program level organization of projects and initiatives.
+ * **Solution Architectures**: Provide a detailed view of how an enterprise can support a capability and how the parts of the architecture can be used to describe baseline and target capabilites and capability increments. These architectures will typically guilde projects that are grouped within a portfolio.
+
+Enterprise Architect can be used to define and manage strategic level architectures and can also help to ensure tactical and solution architectures are aligned to support the strategic direction. 
+
+This diagram shows the way architecture at different levels can be visualized.
+![Architect levels](./src/EA_Architecture_Levels.jpeg)
+
+
+# The Role of Enterprise Architecture Practice
+
+# Four Stages of Architecture Maturity
+  1. **Business Silios**: where companies look to maximize individual business unit needs or functional needs.
+  2. **Standardized Technology**: providing IT efficientcies through technology standardization and, in most cases, increased centralization of technology management.
+  3. **Optimized Core**: which provides companywide data & process standardization as appropriate for the operating model.
+  4. **Business Modularity**: where companies manage and reuse loosely IT-enabled business process components to preserve global standards while enable local differences.
 
  ## Local
  ## Urgent
