@@ -298,7 +298,6 @@ This diagram shows the way architecture at different levels can be visualized.
 ![DuelArtifacts](./src/ea_duel_artificat.JPG)
 This solution overview helps business and IT stakeholders make optimal collective planning decisions regarding the launch of a new IT initiative
 
-
 ## Considerations 
 are Business-Focused Rules. EA artifacts related to this general type identified in organizations include principles, policies, maxims, core drivers, architecture strategies, conceptual data models, governance papers, position papers, strategy papers and whitepapers. All these EA artifacts describe global conceptual rules and considerations important for business and relevant for IT. Considerations are developed collaboratively by senior business leaders and architects and then used to influence all architectural decisions. Their purpose is to help achieve the agreement on basic principles, values, directions and aims. The proper use of Considerations leads to improved overall conceptual consistency.
 ## Standards
@@ -334,6 +333,22 @@ Used under very diverse titles including system interaction diagrams, relational
 Can be called conceptual architectures, solution outlines, conceptual designs, preliminary solution architectures, solution briefs, etc.; describe specific IT projects in a brief business-oriented manner, usually including their high-level architectures, expected business value, estimated costs, risks and timelines. Solution overviews of ~15-30 pages long are typically developed for all proposed IT projects at their early stages collaboratively by their business sponsors and architects. They help senior business stakeholders estimate the overall business impact and value of proposed IT projects and make informed investment decisions regarding these projects. Solution overviews are definitely the most common EA artifacts related to the Outlines general type (businessfocused changes). Like all EA artifacts related to Outlines, solution overviews represent benefit, time and price tags for specific IT projects.
 ## Solution designs  
 Can be called high-level designs, solution definitions, detailed designs, full solution architectures, project-start architectures, etc.; describe specific IT projects in a highly technical manner with all the necessary details required to implement these projects. Solution designs of ~25-50 pages long are typically developed for all approved IT projects collaboratively by architects, project teams and business representatives to reflect both business and architectural requirements. They are used by projects teams during the whole duration of IT projects and help implement these projects according to the pre-agreed requirements. Solution designs are the key EA artifacts related to the Designs general type (IT-focused changes). Like all EA artifacts related to Designs, solution designs represent communication interfaces between architects and project teams.
+## Key Design Decisions (KDDs)
+Are summary documents describing significant architectural decisions taken for specific IT solutions, the reasoning behind them, their justifications, and pros and cons. For instance, KDDs should explain any deviations of a solution from established principles, standards, roadmaps, or technical reference architectures. KDDs are extracted from solution overviews and SADs by solution architects and used by enterprise architects and business stakeholders as main points of discussion, review, and approval for all IT solutions
+
+# Enterprise-Level Processes
+Enterprise-level architecture processes consist of eight distinct activities of enterprise architects. These activities are largely independent of each other and can
+be carried out in parallel without any particular predefined order. Therefore, they are discussed starting from more “generic” activities and ending with more “specific” ones:
+
+1. Enterprise architects monitor relevant technology trends in the external environment, communicate with senior business stakeholders, and periodically produce strategic papers with the analysis of the possible impact and influence of these trends on the organization.
+2. Enterprise architects formulate architecture principles for the whole organization and discuss them with senior business stakeholders.
+3. Enterprise architects maintain the business capability model and use it for discussions with senior business stakeholders in order to understand in which capabilities the IT investments should go.
+4. Enterprise architects together with senior business stakeholders develop business reference architectures for important business capabilities by means of adapting established industry best practices to the organiztion's environment.
+5. For the most important business capabilities enterprise architects develop IT investment roadmaps agreed with the relevant business stakeholders.
+6. Enterprise architects develop and maintain technical reference architectures for important business capabilities according to their best understanding of the business needs and direction.
+7. Enterprise architects maintain the technical inventories to adequately reflect the currently available IT assets.
+8. Enterprise architects together with solution architects maintain and update enterprise-wide technical standards for IT project implementation.
+
 
 # Architecture Debt
 
