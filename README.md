@@ -129,17 +129,15 @@ The next level (ML2) shows how the different strategic orientations mentioned in
 # Types of IT Initiatives
 ## Fundamentals
 ## Stategic
-### Strategic Planning 
-Strategic planning process alone neither delivers any IT solutions nor even describes what exactly needs to be delivered, but only provides high-level rules and directions for IT reflected in Considerations and Visions agreed by both business and IT.
-### Initiative Delivery
-Is the next downstream process which turns the abstract plans into tangible IT solutions implemented in an optimal manner. It closes the gap between Strategic planning and the actual practical implementation of working IT solutions.
 
-### The Process View in Practice
+## The Process View in Practice
 ![EA process view](./src/eaprocessview.PNG)
 
 This figure suggests, an EA practive cannot be viewed as a single step-by-step process, where architects creates numerious EA artifacts to describe all the layers of architecture from busienss to infrastructure, but rather as a complex set of diverse and interacting processes happening simultaneously organizational levels.
 
-#### Strategic Planning
+### Strategic Planning 
+Strategic planning process alone neither delivers any IT solutions nor even describes what exactly needs to be delivered, but only provides high-level rules and directions for IT reflected in Considerations and Visions agreed by both business and IT.
+
 _Goal_: Articulate the desired future course of action for business & IT
 
 _Question_: How is the business enviorment changing & what should we do to react to these changes?
@@ -172,7 +170,7 @@ _Output_: High-level strategic plans for business & IT reflected in Consideratio
 
 _Meaning_: Strategy-to-portfolio, i.e. convert an abstract business strategy into more specific suggestions regarding the desired portfolio of IT inventments
 
-#### Technology Optimization
+### Technology Optimization
 _Goal_: Improve the overall quality of the corporate IT landscape
 
 _Question_: What is wrong with the current IT landscape and what should we do to improve it?
@@ -203,7 +201,52 @@ _Outputs_: Technical reationalization suggestions reflected in Standards and Lan
 
 _Meaning_: Structure-to-rationalization, i.e. understand the current structure of the IT landscape and formulate the rationalization strategy its future evolution
 
-#### Initative Delivery
+### Initiative Delivery
+Is the next downstream process which turns the abstract plans into tangible IT solutions implemented in an optimal manner. It closes the gap between Strategic planning and the actual practical implementation of working IT solutions.
+
+_Goal_: Deliver optimal IT solutions for specific needs
+
+_Question_: What is the best way to adddress the requested need and all the associated requirements?
+
+_Focus_: Short-term & immediate future
+
+_Instances_: Multiple, one instance for each active IT initiative, e.g. project or program
+
+_Nature_: Sequential with two inherent steps: Initiation & Implementation
+
+_Integration_: Integrated with regular project and program mangement activities, e.g. scoping, estimating, scheduling, resourcing, and monitoring
+
+_Timing_: Linked to the established initiative delivery phases and gates, e.g. scope, evaluate, plan, build, test, and deploy
+
+#### Step 1: Initiation
+_Actors_: Business Leaders & Architects
+
+
+_EA Artifacts_: Outlines, e.g. Solutions Overviews and Options Assessments
+
+_Other Documents_: Business proposals and business cases
+
+_Content_: Analysis of possible solution implementation options, their explicit documentation in Outlinesand offical endorsement
+
+_Activities_: Frequent discussions, presentations and approvals
+
+_Techniques_: Business process modeling, customer journey mapping, return-on-investment (ROI) and architecture debt estimation
+------END of Step 1
+
+#### Step 2: Implementation
+_Actors_: Architects & Project Teams
+_EA Artifacts_: Designs, e.g. Solution Designs and Preliminary Solution Design
+_Other Documents_: Business requirements and project management plans
+_Content_: Development of designs based on Outlines and then their actual technical implementation
+_Activities_: Daily collaborative work
+_Techniques_: User stories, requirements traceability matrices and (MoSCoW prioritization)[https://www.productplan.com/glossary/moscow-prioritization/] framework
+------END of Step 2
+
+_Inputs_: Specific business, and sometimes technical, needs
+
+_Outputs_: New working IT solutions
+
+_Meaning_: Need-to-solution, i.e. convert a specific need into a concrete IT solution addressing this need in the most optimal manner
 
 
  ## Local
