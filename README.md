@@ -139,6 +139,23 @@ Is the next downstream process which turns the abstract plans into tangible IT s
 
 This figure suggests, an EA practive cannot be viewed as a single step-by-step process, where architects creates numerious EA artifacts to describe all the layers of architecture from busienss to infrastructure, but rather as a complex set of diverse and interacting processes happening simultaneously organizational levels.
 
+#### Strategic Planning
+Goal: Articulate the desired future course of action for business & IT
+Question: How is the business enviorment changing & what should we do to react to these changes?
+Focus: Long-term & mid-term future
+Instance: Single, or several in high decentralized organizations, e.g. one instance for each line of business
+Nature: Continuous & loargely unstructured
+Integration: Integrated with regular strategic management activities, e.g. environmental analysis, identification of competitive advantages and goals formulation.
+Timing: Aliged to the annual business planning cycle, important business dates, periods & events, e.g. fiscal years, budgeting cycle, board meeetings or updates of a business strategy.
+Actors: Business Leaders & Architects
+EA Artifacts: Considerations & Visions, e.g. principles, policies, business capability models, & roadmaps
+Other Documents: Organizational mission & values, strategic goals, objectives, & KPIs, balanced scorecards and strategy maps, buiness motivation models, high-level strategic business plans and more detailed programs of work.
+Content: Development of rules and directions for business and IT and their explicit documentation in Considerations and Visions.
+Activities: Informal discussions, meetings, presentations, and workshops, as well as periodical formal approvals and sign-off.
+Techniques: SWOT & PEST analyses, Five Forces and other strategy frameworks.
+Inputs: Fundamental factors of the external business environment
+Output: High-level strategic plans for business & IT reflected in Considerations and Visions.
+
 
  ## Local
  ## Urgent
