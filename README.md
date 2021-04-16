@@ -55,6 +55,11 @@ The informational contents of enterprise architecture typically encompass the fo
 * Infrastructure domain – covers hardware, servers, operating systems, networks, etc.
 * Security domain – covers firewalls, authentication mechanisms, identity and access management systems, encryption, etc.
 
+![Domains](./src/ea_domains.JPG)
+
+Generally, enterprise architecture can describe any domains considered as important from the perspective of the relationship between business and IT
+
+
 # EA Domains as a Stack
 The set of common EA domains can be represented as a multilayered stack of domains, where lower layers underpin higher layers:
 * Applications automate business processes
