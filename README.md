@@ -131,10 +131,6 @@ This figure suggests, an EA practive cannot be viewed as a single step-by-step p
 
 ![EA process view](./src/eaprocessview.PNG)
 
-As a mediator between strategic management and projects management, an EA practice enables effective coordination of plans and activities between all relevant actors involved in strategic decision-making and implementation of IT systems resulting in improved business and IT alignment
-
-![EA Position](./src/ea_position.JPG)
-
 ### External Businesss Enviroment
 Economy, technology, society, demography, legislation, regulation, competitors, partners, suppliers, customers, etc.
 
@@ -259,6 +255,10 @@ _Outputs_: New working IT solutions
 
 _Meaning_: Need-to-solution, i.e. convert a specific need into a concrete IT solution addressing this need in the most optimal manner
 
+
+As a mediator between strategic management and projects management, an EA practice enables effective coordination of plans and activities between all relevant actors involved in strategic decision-making and implementation of IT systems resulting in improved business and IT alignment
+
+![EA Position](./src/ea_position.JPG)
 
 # The Concept of Enterprise Architecture
 
