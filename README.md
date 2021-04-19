@@ -122,7 +122,9 @@ The next level (ML2) shows how the different strategic orientations mentioned in
 ## Stategic
 
 ## The Process View in Practice
-This figure provides an aggregated view of the core processes constituting an EA practice with their interrelationships and most essential properties, including their main goals and motives, necessary participants, underlying EA artifacts and documents, key activities and associated techniques, temporal nature and general meaning
+This figure provides an aggregated view of the core processes constituting an EA practice with their interrelationships and most essential properties, including their main goals and motives, necessary participants, underlying EA artifacts and documents, key activities and associated techniques, temporal nature and general meaning.
+
+Specifically, all the activities constituting sucessful EA practices can be grouped into three distinct high-level EA-related processes with different goals, participants, and outcome: Strategic Planning, Initiative Delivery, and Technology Optimization. These three processes are carried out simulataneously by different actors and interrelated with each other. Each of these processes implies developing and using specific types of EA artifacts. 
 
 This figure suggests, an EA practive cannot be viewed as a single step-by-step process, where architects creates numerious EA artifacts to describe all the layers of architecture from busienss to infrastructure, but rather as a complex set of diverse and interacting processes happening simultaneously organizational levels.
 
