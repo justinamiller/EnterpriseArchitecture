@@ -115,13 +115,7 @@ The next level (ML2) shows how the different strategic orientations mentioned in
 | Progresssion  | Stategic Vision | --> | Project Portfolio | --> | Specific IT Projects |
 
 
-
-
-# Types of IT Initiatives
-## Fundamentals
-## Stategic
-
-## The Process View in Practice
+# The Process View in Practice
 This figure provides an aggregated view of the core processes constituting an EA practice with their interrelationships and most essential properties, including their main goals and motives, necessary participants, underlying EA artifacts and documents, key activities and associated techniques, temporal nature and general meaning.
 
 Specifically, all the activities constituting sucessful EA practices can be grouped into three distinct high-level EA-related processes with different goals, participants, and outcome: Strategic Planning, 
