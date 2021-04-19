@@ -173,6 +173,8 @@ _Output_: High-level strategic plans for business & IT reflected in Consideratio
 _Meaning_: Strategy-to-portfolio, i.e. convert an abstract business strategy into more specific suggestions regarding the desired portfolio of IT inventments
 
 ### Technology Optimization
+Translating the information on the current structure of the organizational IT landscape into specific technical relational suggesteds intended to optimize the IT landscape.
+
 _Goal_: Improve the overall quality of the corporate IT landscape
 
 _Question_: What is wrong with the current IT landscape and what should we do to improve it?
